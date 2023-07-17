@@ -1,0 +1,435 @@
+Thank you for all the good time anon. 
+
+
+Link to the live-stream: https://www.twitch.tv/spilljuice 
+
+
+There is one person I want to thank especially. That’s Mark, former BO of 8ch /v/ and owner of 
+vch.moe. His gracious donation of 0,1 bitcoin helped me a lot. He should be really pissed right now, of 
+course. I wanted to kill only mudslimes and promised, I wouldn’t name him. You know what? 
+
+Fuck you, you filthy jew. 
+
+If this person even exist in RL. He could be a CIAnigger trying to radicalize and set up people online, 
+for all that I know. I mean, why would a fucking jew give away money for free? 
+
+
+A short pre-action report 
+
+
+The Weapons 
+
+
+On Man: 
+
+
+Luty SMG 9mm Parabellum 
+
+
+1x 15 round magazine in the gun, 2x 20 round mags on the right shoulder and 15x 15 round mags in 
+pouches on the chest-rig. 
+Loaded with 124 grain soft lead bullets and 7 grain chlorate powder (65/35 potassium chlorate/sugar) 
+
+
+The gun with the potentially highest amount of firepower. The design has low reliability because it 
+lacks an extractor. A stuck cartridge needs to be pulled manually with a tool or be pushed out from the 
+front (what could possibly go wrong) with a rod. This problem gets amplified by the fact that I only 
+have dirty combusting improvised chlorate powder, which will foul the chamber extremely fast. 
+
+The optic is a cheap 30€ red-dot sight. Effective range is 25m. 
+
+
+A single point sling will secure the gun without interfering with the action cam on the shoulder. 
+
+
+12 gauge Slam-Bang shotgun with tactical front grip 
+
+
+35 shells with 10x 00 buck and 5g black powder, 30 on a belt, 5 clipped to the gun 
+
+
+Backup gun # when the Luty shits itself. Absurdly reliable and easy to use, even under great stress, but 
+slow to reload and will produce copious amounts of smoke. Effective range is 10m. 
+Doubles as war club. 
+
+
+Glock combat knife 
+It’s a knife. You know what a knife looks like? 
+For stabbing things with the pointy end. 
+
+
+Single shot .38 special pistol 
+
+
+20 cartridges with 158 grain soft lead bullets and 7 grain finely ground match-head powder 
+
+
+Protection against getting interrupted while reloading or clearing a malfunction. 
+Can be used to finish of injured foes. Effective range is 5m. 
+
+
+A modified version of the .22Ir Western Pistol design. 
+
+The non-rifled barrel is made from 15x3 and 20x2,5mm seamless pipes (S235). Side plates and closing 
+lever made from 5mm mild steel. Hammer, trigger, barrel lug, extractor, breach plate, grip frame and 
+trigger guard made from 10mm mild steel. 3x20mm pins are used to hold everything together. 
+M6x20mm screws used as pivot screw and to secure the firing pin. Firing pin made from 6mm mild 
+round steel and a 2,5 mm drill bit shank. M4x20mm screws hold the hammer and trigger. The main 
+spring is made from an old Luty spring (10mm outside diameter 1mm wire). The wood for the grip 
+plates is ammonia-gassed, oiled oak (same for the guns above). 
+
+
+Finicky to reload, as the extractor was originally designed for .22Ir and will pivot to far if opened to 
+wide, allowing the new cartridge to slide over it, preventing closure. 
+A small aluminum strip (from an old dust mask) around the firing pin serves as makeshift safety. 
+
+
+Car guns: 
+
+
+Plastic Luty 
+
+
+Compact design for use while driving and as a second backup. Even has a (badly) rifled barrel. Not for 
+high intensity fire, as the printed PLA feed ramp can melt. Magazines are theoretically interchangeable 
+with the steel Luty. 
+
+The 5 plastic magazines are highly unreliable/unsafe and will be used last. 
+
+Building instruction and .stl files are in the full upload. 
+
+
+Short Slam-Bang shotgun 
+
+
+A second belt with 30 shells is stored in the car. 
+
+
+Small Slam-Bang with a rather basic stock( .stl file in upload). For use on the cramped driver seat and 
+as backup if I lose the other one. 
+
+
+Both shotguns are made from 28 mm OD 3,5mm wall thickness and 35mm OD 3mm wall thickness 
+seamless pipes (S235 steel). A 28mm diameter 20mm long steel rod is welded as plug. A M5 screw is 
+used as a firing pin (1,5-2mm longer than the plug and sharpened at a 45° angle to a 1mm thick point). 
+
+
+Fallback weapons: 
+
+
+Smith-Carbine 
+
+
+with 140 rounds, loaded with 2,4gram/40 grain sulfur-less black powder (100g KNO3 + 24g charcoal) 
+9 cartridges made from brass (heavy, but reliable), 30 from cardboard (somewhat reliable, but time- 
+consuming to manufacture per hand), and around 100 from 3d-printed PLA (completely untested, see 
+stream for results, .stl for them in the full upload) 
+
+
+The most reliable and accurate firearm in my arsenal. The only gun with an effective range greater then 
+25m. I use it only if the other guns malfunction or I run out of ammo for them, since the whole deal is 
+to show the viability of improvised guns. After all some of you fellows don't have the luxury of 
+industrial-made equipment. 
+
+
+A longsword (yes, really) 
+
+
+A gothic 15. century 1 %4-hander, to be specific. As much a weapon as a shitpost. I intend to use it as 
+last resort or to humiliate the enemy. 
+
+
+A secret weapon 
+View the live-stream to find out more. 
+
+
+Extra ammunition 
+Around 400 rounds 9mm, 130 rounds .38 Special ,70 rounds 12 gauge and 130 rounds .50 are used as 
+iron reserve. 
+
+
+Hand grenades 
+
+
+From left to right and up to down: 
+
+
+Type Amount Filler Weight 
+Fragmentation grenades filled with 10mm steel balls | 10 200g “E” Filler 1200g 
+- iL 100g ETN 1100g 
+Pipe bombs made from 1 % pipe fittings 5 150g black powder | 1050¢ 
+Nail bombs 2 600g “E” Filler 1200¢g 
+- 2 300g “E” Filler 500g 
+- 1 500g “E” Filler 800¢ 
+- 2 1000g “E” Filler 1600¢g 
+Breaching charge 1 1700g “E” Filler 2000g 
+Anti material charge 1 1000g thermite 1100g 
+Smoke grenade 1 250g KNO3:sugar | 300¢ 
+Detonation caps 25 (17 shown) |0,12g SADS; 8g 
+
+
+1,25g ETN 
+
+
+Most grenades are filled with a simplified formula of the “E” Filler from the book “Expedient Hand 
+Grenades - Dmitrieff” made as followed: 
+
+per 100g: 60g Nh4NO3 dissolved in 10ml hot water, add 10,5g NaNO3, 2,5g starch and 0,5g urea, mix 
+20g Al powder (the cheap flaked, silvery kind used in colors) in and stir 10 min. Both my Nh4NO3 and 
+NaNO3 are only fertilizer grade pure(impurities: Ca(NO3)2, Mg(NO3)2, MgO, CaCO3, NaOH, 
+NaCO3) and have a considerable amount of water, use 55g and 10g and additional 5m! water if yours is 
+dry and pure. 
+
+I needed to prepare the grenades months in advance. That’s bad, because most ammonium nitrate 
+explosives get insensitive/inert when they take water out of the air. This mixture is designed with water 
+in mind, so I hope that it will still be sensitive enough to detonate. If not, well, fuck. 
+
+
+The det-caps are made from 65mm long 8mm OD x 0,5 wall thickness brass pipe, filled with 1,25g 
+ETN and pressed as followed: first press 0,5g with both hands via vice, second 0,5g with 1 hand, last 
+0,25 gram only light hand pressed so that it won’t fall out. On top of that fill 0,1- 0,12g of unpressed 
+SADS. Add a fuse and glue shut with white wood glue. 
+
+
+Equipment 
+
+
+Filming hardware 
+
+A Samsung S8 fastened to the helmet will hopefully deliver an acceptable live-stream. 
+
+A Firefly 8SE action cam on the right shoulder will record additional footage and serves as a backup. 
+As you see, I like redundancy. 
+
+
+Kevlar helmet 
+Surplus from the Bundeswehr. 
+
+
+Light kevlar west 
+Surplus from the police. 
+
+
+Chest-rig 
+Ronin chest-rig from condor with 15 pouches for 40 round MP7 magazines from TT. They fit 15 round 
+
+
+Luty magazines. Inexpensive, lightweight and fast to take of, but not of high quality. 
+
+
+The Objectives 
+
+
+1. Prove the viability of improvised weapons. 
+2. Increase the moral of other suppressed Whites by spreading the combat footage. 
+3. Kill as many anti-Whites as possible, jews preferred. 
+
+
+Bonus: Dont die. 
+
+
+The Plan 
+
+
+First is the local synagogue. Damn, that’s not a soft target. For some reason (jej) the security measures 
+are quite high. The building is surrounded by apartment blocks on 2 sides and borders a jewish 
+graveyard on the third. The graveyard is surrounded by a 3m high wall and has (as far as I could see) 
+only one entrance next to the one of the synagogue. Speaking of which, there’s a surveillance cam right 
+above the gate, and I think this or the one behind that can only be opened by someone inside with an 
+electric door panel. The windows are not really reachable either. And they could very well be bullet 
+resistant, as the BRD spends huge amounts of tax money on jew safety. This means, if I won’t get 
+lucky and they have a door standing open, I need to force my way in or lure the rats out. 
+
+Both methods are not foolproof, so there’s quite the possibility that I fail to get in and instead spill my 
+spaghetti all over the street, while the kikes are watching (and laughing) from the inside. I would rather 
+prefer to not do that. 
+
+I could wait until a kike enters, shoot him and get through before the door slams shut, or I could try to 
+push the door in with the rest of my AN, enough for a 4kg ANFO bomb. I believe there’s a door from 
+the synagogue to the graveyard, so I could try to open the yard entrance door by hitting it with my car. 
+That would prevent me from getting away and doing a second action, so this option is not preferred. 
+Alternatively I could try to set fire to the building with molotovs and/or grenades thrown at the 
+entrance, which could theoretically lead to them running out. 
+
+IF I get in, I need to be extremely careful clearing the rooms, because jews are the only group besides 
+politicians in this sad excuse of a country who will not only get guns effortlessly, but also the permit to 
+CC them. 
+
+Oh, and on top of THAT I have not the slightest clue how the floor plan looks like. Intel is the most 
+important aspect of an operation and my capabilities are rather limited. The street in front is overlooked 
+by cameras and as a young, fit, white male with blond hair and blue eyes and without tattoos, piercings 
+or other degenerate shit(beside being a weeb) I already look like a terrorist. For that reason I couldn’t 
+linger to long in front, as getting under suspicion would endanger the whole operation. They have no 
+problems kicking doors in for no good reason, all that’s needed is a jew complaining. 
+
+In conclusion, I prepare for all of the above and decide on site. The best day of action should be 
+
+Jom Kippur, because even “non-religious” jews are often visiting the synagogue on this date. 
+
+
+Rereading the paragraph, that really sounds bad. So why, you may ask, did I choose this target. 
+
+It’s the nearest location with a high population of jews, simple as that. Even then, I need to drive 45 
+minutes, which is quite a lot of time to get detected and intercepted. I originally planned to storm a 
+mosque or an antifa “culture” center, which are way less defended, but even killing 100 golems won’t 
+make a difference, when on a single day more than that are shipped to Europe. The only way to win is 
+to cut of the head of ZOG, which are the kikes. If I fail and die but kill a single jew, it was worth it. 
+After all, if every White Man kills just one, we win. 
+
+
+Tldr: 
+
+Choose the best way for entry spontaneous. Go in and kill everything. Improvise, if when something 
+goes wrong. Drive away. Kill some more. Repeat until all jews are dead or you prove the existence of 
+Waifus in Valhalla, whatever comes first. Jej. 
+
+
+Achievements 
+
+
+No way back. 
+Upload this PDF. 
+
+
+Chosen to die. 
+Kill a jew. 
+
+
+Gender Equality 
+Kill a jewess. 
+
+
+2 Kikes 1 Shekel 
+Kill 2 jews with a grenade. 
+
+
+The fire rises. 
+Burn down a synagogue. 
+
+
+Cultural Appropriation 
+Stab a muslim. 
+
+
+If I only had one bullet... 
+Kill a traitor. 
+
+
+Life collectivized 
+Kill a communist. 
+
+
+This is my BOOM-STICK! 
+Kill someone with a Slam-Bang. 
+
+
+You only live once. 
+Kill someone with the single-shot. 
+
+
+The Way of the Autist 
+Kill someone with the sword. 
+
+
+That really grinds my gear. 
+
+
+Kill someone with the secret weapon. 
+
+
+Nailed it. 
+Kill someone with a nail-bomb. 
+
+
+Hello World! 
+Have a successful live-stream. 
+
+
+Anudda Shoa 
+Kill 6 jews. 
+
+
+Think of the children! 
+Kill a kikelett. 
+
+
+Why not both? 
+Kill a muslim and a jew. 
+
+
+Crusty Kebab 
+Burn down a mosque. 
+
+
+Midnight Genocide 
+
+
+Kill 3 niggers between 11pm and 1 am. 
+
+
+Blue-screened 
+Kill a ZOG-bot. 
+
+
+Crossed out 
+Kill a christian. 
+
+
+The Eternal Anglo 
+Kill someone with a Luty. 
+
+
+Boomers Pride 
+
+
+Kill someone with the Smith-Carbine. 
+
+
+Edgy 
+Kill someone with the knife. 
+
+
+Ban assault fittings! 
+Kill someone with a pipe-bomb. 
+
+
+I liked that hand... 
+Accidentally frag yourself 
+with the improvised explosives. 
+
+Techno-Barbarism 
+
+
+A spiritual guide for discontent White Men in the current year +4 
+
+
+Dedomesticate yourself 
+
+
+and 
+
+
+KILLALL JEWS! 
+
+
+Mudslimes, christkikes, commies, niggers and traitors too. 
+
+
+thanks for reading 
+
+
+Become a 
+
+
+Techno- 
+Barbarian 
+
+
+TODAY 
+and get a 
+
+
+FREE* 
+
+
+Cat-Girl 
