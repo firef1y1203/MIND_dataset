@@ -1,33 +1,30 @@
 id,title,author,location,time,n_news
-1,unabomber manifesto: industrial society and its future,ted kaczynski,across the us,,
+1,unabomber manifesto: industrial society and its future,ted kaczynski,across the us, N/A, 2
 2,unnamed,seung-hui cho,virginia tech,2007,2
-3,unnamed,christopher dorner,orange county, los angeles county, and riverside county,2013,2
+3,unnamed,christopher dorner,orange county los angeles county and riverside county,2013,2
 4,suicide note,marc lépine,montreal,1989,2
 5,statement,gang lu,iowa,1991,2
 6,unamed,t.j. lane,ohio,2012,2
 7,unamed,christopher harper-mercer,oregon,2015,2
-8,unamed,robert butler, jr.,nebraska,2011,2
+8,unamed,robert butler jr.,nebraska,2011,2
 9,unamed,wellington de oliveira,brazil,2011,2
-10,2083 - a european declaration of independence,anders breivik,norway,2011,2
-11,the inconvenient truth,patrick crusius,united states,2019,2
-12,suicide note,jiverly wong,new york,2009,2
-13,unnamed,payton gendron,new york,2022,2
-14,unnamed (suicide note),joseph stack iii,texas,2010,2
-15,unnamed,dylann roof,south carolina,2015,2
-16,unnamed,john timothy earnest,california,2019,2
-17,my twisted world,elliot rodger,california,2014,2
-18,unnamed (video, transcript provided),michael bibeau,canada,2014,2
-19,unnamed,jim david adkisson,tennessee,2008,2
-20,unnamed,lucas helder,united states,2002,2
-21,the purpose of life,nidal hasan,texas,2009,2
-22,kill the best gentiles!,james von brunn,united states,2009,2
-23,unnamed,john bedell,virginia,2010,2
-24,unnamed, james j. lee,maryland,2010,2
-25,unnamed (suicide note),charles bishop,united states,2002,2
-26,yellow on the outside, shame on the inside: asian culture revealed,anson chi,texas,2012,2
-27,the great replacement,brenton tarrant,new zealand,2019,2
-28,(difficult format),tobias rathjen,germany,2020,2
-29,unnamed,mohammed reza,north carolina, us,2006,2
-30,techno-barbarism,stephen balliet,germany,2019,2
-31,why i bombed oklahoma,timothy mcveigh,oklahoma, us,1995,2
-32,a call to arms,juraj krajčík,slovakia,2022,2
+10,the inconvenient truth,patrick crusius,united states,2019,2
+11,suicide note,jiverly wong,new york,2009,2
+12,unnamed,payton gendron,new york,2022,2
+13,unnamed (suicide note),joseph stack iii,texas,2010,2
+14,unnamed,dylann roof,south carolina,2015,2
+15,unnamed,john timothy earnest,california,2019,2
+16,my twisted world,elliot rodger,california,2014,2
+17,unnamed,michael bibeau,canada,2014,2
+18,unnamed,jim david adkisson,tennessee,2008,2
+19,unnamed,lucas helder,united states,2002,2
+20,kill the best gentiles!,james von brunn,united states,2009,2
+21,unnamed,john bedell,virginia,2010,2
+22,unnamed, james j. lee,maryland,2010,2
+23,unnamed (suicide note),charles bishop,united states,2002,2
+24,yellow on the outside shame on the inside: asian culture revealed,anson chi,texas,2012,2
+25,the great replacement,brenton tarrant,new zealand,2019,2
+26,unnamed,mohammed reza,north carolina,2006,2
+27,techno-barbarism,stephen balliet,germany,2019,2
+28,why i bombed oklahoma,timothy mcveigh,oklahoma,1995,2
+29,a call to arms,juraj krajčík,slovakia,2022,2
