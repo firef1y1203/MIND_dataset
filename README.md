@@ -24,17 +24,3 @@ This directory contains the text of each manifesto. Each file is named with the 
 ### `news/`
 
 This directory contains the text of news articles related to each manifesto. Each file is named with the `id` of the corresponding manifesto from `data.csv`, followed by an underscore and the index of the news article for that manifesto, and has a `.txt` extension. For example, the text of the first news article related to the manifesto with `id` 1 is in the file `news/1_1.txt`.
-
-## Citation
-
-If you use the MIND dataset in your research, please cite it as follows:
-
-```
-TODO
-```
-
-For any further queries or requests, please contact TODO.
-
-No.10 too long
-NO.21 is a book for purchase
-No.28 image format, not in text format
